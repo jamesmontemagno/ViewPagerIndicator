@@ -173,7 +173,7 @@
     <AndroidResource Include="Resources\values-v11\styles.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Library\Library.csproj">
+    <ProjectReference Include="..\Library\DK.Ostebaronen.Droid.ViewPagerIndicator.csproj">
       <Project>{fa322a14-2b8e-4496-b950-4d8263ca0a2d}</Project>
       <Name>Library</Name>
     </ProjectReference>
